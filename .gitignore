@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Large data files
+*.csv
+*.parquet
+*.feather
+*.xlsx
+*.json
+*.zip
+
+# Allow small report CSVs
+!reports/model_comparison.csv
+!reports/shap_feature_importance.csv
+!reports/funnel_summary.csv
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# Raw data folders
+data/raw/
+data/intermediate/
+
+# Temporary files
+*.log

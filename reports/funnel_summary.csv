@@ -1,0 +1,7 @@
+step,sessions,dropoff_count,dropoff_pct,retention_from_top_pct
+session_start,344640,0,0.0,100.0
+page_view,324449,20191,5.9,94.14
+view_item,76290,248159,76.5,22.14
+add_to_cart,15132,61158,80.2,4.39
+begin_checkout,11088,4044,26.7,3.22
+purchase,4845,6243,56.3,1.41
