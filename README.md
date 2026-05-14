@@ -1,4 +1,5 @@
 # GA4 Google Merchandise Store — Conversion Propensity & Retargeting Analytics
+<img width="2752" height="1536" alt="Info_summary" src="https://github.com/user-attachments/assets/3c5087b0-877f-494d-b0e9-44eaf7480517" />
 
 ## Project Overview
 This project analyzes the **GA4 Google Merchandise Store** public dataset to identify which website sessions are most valuable for retargeting campaigns.  
@@ -278,7 +279,6 @@ NB-07 → Final Report
 # Repository Structure
 
 ```text
-├── data/
 ├── notebooks/
 │   ├── NB-01_SQL.ipynb
 │   ├── NB-02_EDA.ipynb
@@ -288,9 +288,8 @@ NB-07 → Final Report
 │   ├── NB-06_SHAP.ipynb
 │   └── NB-07_Report.ipynb
 ├── reports/
-├── images/
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
